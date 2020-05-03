@@ -1,0 +1,6 @@
+[submodule "project-docs"]
+	path = project-docs
+	url = https://github.com/sofiabononi/project-docs
+[submodule "swe-code"]
+	path = swe-code
+	url = https://github.com/CoffeeCodeSWE/swe-code
