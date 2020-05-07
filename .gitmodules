@@ -4,3 +4,6 @@
 [submodule "swe-training-app"]
 	path = swe-training-app
 	url = https://github.com/CoffeeCodeSWE/swe-training-app
+[submodule "swe-grafana-plugin"]
+	path = swe-grafana-plugin
+	url = https://github.com/CoffeeCodeSWE/swe-grafana-plugin/
