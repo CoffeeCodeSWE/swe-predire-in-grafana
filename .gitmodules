@@ -1,3 +1,6 @@
 [submodule "project-docs"]
 	path = project-docs
 	url = https://github.com/sofiabononi/project-docs
+[submodule "swe-training-app"]
+	path = swe-training-app
+	url = https://github.com/CoffeeCodeSWE/swe-training-app
